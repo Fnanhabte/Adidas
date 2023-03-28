@@ -21,10 +21,6 @@ The digital-first strategy that Adidas has been pursuing is now paying dividends
 
 </div>
 
-<div align="center">
-<img src="https://github.com/Fnanhabte/Adidas/blob/main/adidas-banner.png" width=100%" alt="adidas img">
-<div>
-
 <div> 
 <pre></pre>
 <p align="center">There are no known bugs currently but pull requests are allowed incase you spot a bug. Thanks for viewing my project!</P>
