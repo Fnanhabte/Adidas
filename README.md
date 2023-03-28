@@ -1,5 +1,5 @@
 <div align="center">
-<h1> <a href="https://fnanhabte.github.io/Adidas/">adidas</a></h1>
+<h1> <a href="https://fnanhabte.github.io/adidas/">adidas</a></h1>
 <img src="https://github.com/Fnanhabte/adidas/blob/main/images/adidas-banner.png" width="100%">
 <p align="left">
 Adidas is one of the most famous German clothing brands that manufactures and sells sportswear, founded by Adolf “Adi” Dassler in Herzogenaurach, Germany, in 1949. The name adidas comes from its founder’s name, Adolf, and its abbreviation,"Adi" & “The first three letters of his last name, Das, to create adidas.
